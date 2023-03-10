@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi 👋, I'm Hamusuta
 
-<!--
-**Hamusuta0320/Hamusuta0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+```go
+package main
+import (
+	"fmt"
+)
+type Bio map[string]interface{}
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%s: %s\n", k, v)
+	}
+}
+func GetBio() Bio {
+	return Bio{
+		"Currently learning":        "Kotlin, Java, Go, MySQL, Redis, Kafka, MongoDB, Elasticsearch",
+		"Looking to collaborate on": "Kotlin, Java and Go related projects",
+		"Ask me about":              "Anything related to what I am currently learning",
+		"The direction of efforts":  "Be an excellent programmer and create many meaningful open source projects",
+	}
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Analytics
+
+<a href="https://github.com/linhaojun857">
+   <img align="" height="137.9px" src="https://github-readme-stats.vercel.app/api?username=Hamusuta0320&include_all_commits=true&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&line_height=21"/>
+   <img align="" height="137.9px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamusuta0320&hide_title=true&layout=compact"/>
+</a>
