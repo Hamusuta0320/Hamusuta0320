@@ -2,24 +2,19 @@
 
 ### About me
 
-```go
-package main
-import (
-	"fmt"
-)
-type Bio map[string]interface{}
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%s: %s\n", k, v)
-	}
+```rust
+#[derive(Debug)]
+struct Hamusuta {
+    name: &'static str,
+    age: u8
 }
-func GetBio() Bio {
-	return Bio{
-		"Currently learning":        "Kotlin, Java, Go, MySQL, Redis, Kafka, MongoDB, Elasticsearch",
-		"Looking to collaborate on": "Kotlin, Java and Go related projects",
-		"Ask me about":              "Anything related to what I am currently learning",
-		"The direction of efforts":  "Be an excellent programmer and create many meaningful open source projects",
-	}
+
+fn main() {
+    let hamusuta = Hamusuta {
+         name: "Hamusuta",
+	 age: 25,
+    };
+    println!("{:?}", &hamusuta);
 }
 ```
 
