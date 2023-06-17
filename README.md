@@ -15,6 +15,7 @@ fn main() {
 	 age: 25,
     };
     println!("{:?}", &hamusuta);
+    println!("now learning rust...");
 }
 ```
 
