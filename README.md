@@ -25,8 +25,8 @@ fn main() {
    <img align="" height="137.9px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamusuta0320&hide_title=true&layout=compact"/>
 </a>
 
-<img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamusuta0320&theme=tokyonight"/>
-<img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamusuta0320&theme=tokyonight&exclude="/>
-<img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamusuta0320&theme=tokyonight&exclude="/>
-<img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamusuta0320&theme=tokyonight"/>
+<img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamusuta0320&theme=nord_bright"/>
+<img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamusuta0320&theme=nord_bright&exclude="/>
+<img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamusuta0320&theme=nord_bright&exclude="/>
+<img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamusuta0320&theme=nord_bright"/>
 
