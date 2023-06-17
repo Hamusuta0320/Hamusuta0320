@@ -31,3 +31,5 @@ func GetBio() Bio {
 </a>
 
 <img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamusuta0320&theme=2077"/>
+<img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamusuta0320&theme=2077&exclude="/>
+<img align="" height="137.9px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamusuta0320&theme=2077"/>
