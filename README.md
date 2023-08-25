@@ -6,13 +6,11 @@
 #[derive(Debug)]
 struct Hamusuta {
     name: &'static str,
-    age: u8
 }
 
 fn main() {
     let hamusuta = Hamusuta {
          name: "Hamusuta",
-	 age: 25,
     };
     println!("{:?}", &hamusuta);
     println!("now learning rust...");
